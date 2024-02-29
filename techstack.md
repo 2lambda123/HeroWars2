@@ -3,9 +3,9 @@
 ## Tech Stack
 2lambda123/HeroWars2 is built on the following main stack:
 
+- [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - [Lua](http://www.lua.org/) – Languages
-- [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -15,9 +15,9 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/HeroWars2 is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png' alt='ActionScript'/> [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/2118/128px-Lua-Logo.svg.png' alt='Lua'/> [Lua](http://www.lua.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2329/8ei_UuLc_400x400.png' alt='ActionScript'/> [ActionScript](http://www.adobe.com/devnet/actionscript.html) – Languages
 
 Full tech stack [here](/techstack.md)
 
@@ -28,7 +28,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/HeroWars2](https://github.com/2lambda123/HeroWars2)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|5<br/>Tools used|01/09/24 <br/>Report generated|
+|5<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
